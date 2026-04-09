@@ -41,4 +41,5 @@ Before diving into AI, I worked on the NHS frontline as a Foundation Doctor (FY1
 
 ### 📫 Let's Connect
 * **LinkedIn:** https://linkedin.com/in/phurin-rintanalert/
-* **Email:** Phurin.Rintanalert@gmail.com 
+* **Email:** Phurin.Rintanalert@gmail.com
+* **Portfolio Website** https://phurinrintanalert.github.io
